@@ -3,7 +3,7 @@
 This repository contains the test strategy, automated test suites, test cases, and quality assurance framework for [She Guides Me](https://sheguidesme.com/).
 
 ---
-
+Test Case Table = https://docs.google.com/spreadsheets/d/1D_Qpq1WAo70c8AcGFLRc6jTxUWQxuU-HFTEfOzjltE4/edit?usp=sharing
 📌 Project Overview
 
 **Target Application:** [https://sheguidesme.com/](https://sheguidesme.com/)  
